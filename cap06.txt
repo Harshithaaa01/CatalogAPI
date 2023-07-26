@@ -1,0 +1,2 @@
+echo "add to new branch"
+echo "check branch ststus"
